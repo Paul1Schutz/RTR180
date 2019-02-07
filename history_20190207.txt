@@ -24,3 +24,29 @@
    24  ./git-upload
    25  history
    26  history > history_20190207.txt
+   27  ll
+   28  ls -lt
+   29  ./git-upload 
+   30  nano git-upload
+   31  ./git-upload 
+   32  nano git-upload
+   33  ./git-upload 
+   34  ./git-upload 20190207_15_19
+   35  nano git-upload
+   36  ./git-upload 20190207_15_19
+   37  ls -lt
+   38  nano git-upload
+   39  ./git-upload 20190207_15_19
+   40  ./git-upload 20190207
+   41  ./git-upload 
+   42  ./git-upload 20190207
+   43  nano git-upload 
+   44  ./git-upload 20190207_15_16
+   45  nano git-upload 
+   46  ./git-upload 20190207_15_16
+   47  /.git-upload
+   48  git-upload
+   49  ./git-upload 
+   50  ls -lt
+   51  chmod 740 git-upload
+   52  history > history_20190207.txt
