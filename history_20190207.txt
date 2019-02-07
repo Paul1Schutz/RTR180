@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Paul1Schutz/RTR180
+    4  ll
+    5  git clone https://github.com/Paul1Schutz/RTR180
+    6  cd RTR180
+    7  ll
+    8  cat README.md
+    9  ll
+   10  ls -la
+   11  nano README.md
+   12  ll
+   13  nano README.md
+   14  git config --global user.email pauls.sics@gmail.com
+   15  git add .
+   16  git commit -m "2019_02_07_14_15_pirmais_commits"
+   17  git push origin master
+   18  nano git-upload
+   19  ll
+   20  ./git-upload
+   21  chmod 740
+   22  chmod 740 git-upload
+   23  ll
+   24  ./git-upload
+   25  history
+   26  history > history_20190207.txt
