@@ -74,4 +74,19 @@ rwxr-x---
    
    # Shell Variables
    
-   Shell parastie mainīgo apzīmējumi var saturēt burtus, ciparus vai underscore
+   Shell parastie mainīgo apzīmējumi var saturēt burtus, ciparus vai underscore _ zīmi.
+   
+   Piemērs pareizai mainīgo apzīmēšanai:
+   
+     _ALI
+     TOKEN_A
+     VAR_1
+     VAR_2
+     
+   Piemērs nepareizai mainīgo apzīmēšanai:
+   
+     2_VAR
+     -VARIABLE
+     VAR1-VAR2
+     VAR_A!
+   
