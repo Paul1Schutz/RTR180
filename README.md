@@ -89,4 +89,9 @@ rwxr-x---
      -VARIABLE
      VAR1-VAR2
      VAR_A!
+     
+   Nodarbība nr. 6
+  
+   # Special variables
+   
    
