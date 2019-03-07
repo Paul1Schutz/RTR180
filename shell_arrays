@@ -1,0 +1,9 @@
+#!/bin/bash
+
+Band[0]="U2"
+Band[1]="The Who"
+Band[2]="Oasis"
+Band[3]="Muse"
+Band[4]="RHCP"
+echo "First Index: ${Band[0]}"
+echo "Second Index: ${Band[1]}"
